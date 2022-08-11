@@ -1,1 +1,1 @@
-# Matlab-method-fo-least-squares
+# Matlab-method-of-least-squares
